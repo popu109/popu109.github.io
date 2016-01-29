@@ -65,12 +65,14 @@ PPS.想问怎么弄到图片链接的童鞋不要急，请慢慢看下去。。�
 
 ## Chrome || Chromium
 
-下载并安装[围脖是个好图床](http://pan.baidu.com/s/1dEk95kt)插件，然后参考下面的动图：
+下载并安装[围脖是个好图床](http://pan.baidu.com/s/1dEk95kt)插件，然后参考下面的动图使用。
+
+关于安装方式：在地址栏中打开`chrome://extensions/`直接把下载的crx拖进去即可，食用360急速的同学请摸`chrome://myextensions/`，猎豹、UC、百度、opera、QQ、360安全等基于Chromium的浏览器也可安装，如果`chrome://extensions/`使用不能请自行于菜单中寻找“管理扩展”之类的按钮
 
 ![](http://ww4.sinaimg.cn/large/ec922a76jw1f0g9ogt662g20m30aoq7c.gif)
 
 如你所见，插件已经直接提供了Markdown格式的链接，直接复制粘贴即可。（注：动图必须选择“原图”画质，否则不能动）
-关于安装方式：在地址栏中打开`chrome://extensions/`直接把下载的crx拖进去即可，食用360急速的同学请摸`chrome://myextensions/`，猎豹、UC、百度、opera、QQ、360安全等基于Chromium的浏览器也可安装，如果`chrome://extensions/`使用不能请自行于菜单中寻找“管理扩展”之类的按钮
+
 
 ## Firefox || Safari
 和异教徒没什么好说的，自己摸[围脖图床修复计划](http://weibotuchuang.sinaapp.com/)
