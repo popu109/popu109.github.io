@@ -65,7 +65,7 @@ PPS.想问怎么弄到图片链接的童鞋不要急，请慢慢看下去。。�
 
 ## Chrome || Chromium
 
-下载并安装[围脖是个好图床]()插件，然后参考下面的动图：
+下载并安装[围脖是个好图床](http://pan.baidu.com/s/1dEk95kt)插件，然后参考下面的动图：
 
 ![](http://ww4.sinaimg.cn/large/ec922a76jw1f0g9ogt662g20m30aoq7c.gif)
 
