@@ -12,7 +12,7 @@ locale: zh_CN
 ### Personal info and site tools info:
 #twitter_username: yulijia
 #github_username:  yulijia
-duoshuo: false
+duoshuo: true
 disqus_shortname: jiwairen
 duoshuo_shortname: jiwairen
 favicon:     "/images/favicon.ico"
