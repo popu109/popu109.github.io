@@ -1,3 +1,11 @@
+---
+layout: post
+title: 简明博文Markdown语法指南
+categories: articles
+comments: true
+description: Markdown is very easy!
+---
+
 > 本文上接《使用ghpages+Jekyll做博客》
 
 ***
