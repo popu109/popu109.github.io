@@ -7,6 +7,7 @@ Index
 -
 这次，我们说的是用github pages服务和Jekyll这个开源程序做博客的方法，尽管教程很长，但是别担心，大部分时间(~~我都是在瞎bb~~)都没有什么难点，只是需要一点耐心而已。注意，在开始操作之前，务必完整地看一遍教程哦。
 相关：
+
 > Github:https://github.com
 > Jekyll:https://github.com/jekyll/jekyll
 > Freshman21:https://github.com/yulijia/freshman21
